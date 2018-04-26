@@ -2,9 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="79134892-6ecc-4d52-981e-e7ad9e203058" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ip2/assets/backgrounds/foodsBg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ip2/assets/backgrounds/landing.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ip2/assets/backgrounds/subscribe.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ip2/assets/customers/p1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ip2/assets/customers/p2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ip2/assets/customers/p3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ip2/assets/drink1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ip2/assets/drink2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ip2/assets/fastFood1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ip2/assets/fastFood2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ip2/assets/fastfood/beefBurger.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ip2/assets/fastfood/chickenBurger.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ip2/assets/fastfood/chickenPizza.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ip2/assets/foodtop/breakfast.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ip2/assets/foodtop/dinner.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ip2/assets/foodtop/dinner2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ip2/assets/foodtop/lunch.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ip2/assets/footerlogos/facebook.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ip2/assets/footerlogos/logo_white.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ip2/assets/footerlogos/pinterest.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ip2/assets/footerlogos/twitter.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ip2/assets/logoBig.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ip2/core.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ip2/directions.md" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,8 +41,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="320">
-              <caret line="16" column="7" lean-forward="true" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
+            <state relative-caret-position="509">
+              <caret line="70" column="0" lean-forward="false" selection-start-line="70" selection-start-column="0" selection-end-line="70" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -101,70 +122,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="anita-s-kitchen" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="anita-s-kitchen" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="anita-s-kitchen" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ip2" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="anita-s-kitchen" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="anita-s-kitchen" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="anita-s-kitchen" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="anita-s-kitchen" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="anita-s-kitchen" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="anita-s-kitchen" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -262,12 +219,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1524734504462</updated>
-      <workItem from="1524734507286" duration="1171000" />
+      <workItem from="1524734507286" duration="5964000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1171000" />
+    <option name="totallyTimeSpent" value="5964000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="58" y="-11" width="1543" height="912" extended-state="6" />
@@ -339,8 +296,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="16" column="7" lean-forward="true" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
+        <state relative-caret-position="509">
+          <caret line="70" column="0" lean-forward="false" selection-start-line="70" selection-start-column="0" selection-end-line="70" selection-end-column="0" />
           <folding />
         </state>
       </provider>
