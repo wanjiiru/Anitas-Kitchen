@@ -1,3 +1,19 @@
+.breakfast{
+	background-image: url("liz.jpg");
+}
+
+
+
+/*subscribe starts here*/
+
+.sub{
+	background-image: url("../assets/img/backgrounds/subscribe.jpg");
+}
+/*subscribe starts here*/
+
+
+
+
 /*footer starts here*/
 .footer{
 	position: fixed;
@@ -32,13 +48,3 @@ li{
 }
 /*footer ends here*/
 
-
-
-
-  
-  height: 20;
-  width: 100%;
-  bottom: 0;
-  left: 0;
-  padding-bottom: 50px;
-  padding-top:-40px;
