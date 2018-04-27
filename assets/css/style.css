@@ -102,10 +102,13 @@ h4{
 
 
 
-.hilton{
+.hilton {
     float: right;
 }
-
+.noisy{
+    float: left;
+    width: 45px;
+}
 
 
 
