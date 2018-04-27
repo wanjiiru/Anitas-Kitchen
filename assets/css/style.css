@@ -7,7 +7,7 @@
 /*subscribe starts here*/
 
 .sub{
-	background-image: url("../assets/img/backgrounds/subscribe.jpg");
+	background-image: url("../img/backgrounds/subscribe.jpg");
 }
 /*subscribe starts here*/
 
@@ -47,6 +47,19 @@ li{
 	text-align: center;
 }
 /*footer ends here*/
+
+.landing{
+    background: url("../img/backgrounds/landing.jpg") no-repeat;
+    background-size: cover;
+    margin-right: 10px;
+    margin-left: 0;
+    width: 100%;
+}
+
+
+h3{
+    color: white;
+}
 
 
 
