@@ -5,7 +5,13 @@
 
 .sub{
 	background-image: url("../img/backgrounds/subscribe.jpg");
+    height: 300px;
 }
+
+h5 {
+    color: white;
+}
+
 /*subscribe starts here*/
 
 
@@ -90,6 +96,42 @@ h4{
 }
 
 
+.tablink {
+    background-color: #555;
+    color: white;
+    float: left;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 16px;
+    font-size: 17px;
+    width: 25%;
+}
+
+.tablink:hover {
+    background-color: #000000;
+}
+
+.tabcontent {
+    color: white;
+    display: none;
+    padding: 100px 20px;
+    height: 100%;
+}
+
+
+#Fastfood {background-color: white;}
+#drinks{background-color: green;}
+#Chicken {background-color: blue;}
+#rice{background-color: orange;}
+
+
+li{
+    list-style: inline;
+    display: inline;
+}
+
+
 /* menu tabs end here*/
 
 
@@ -104,13 +146,27 @@ h4{
 
 .hilton {
     float: right;
+
 }
 .noisy{
     float: left;
-    width: 45px;
+    width: 49px;
 }
 
 
+
+
+
+.party-time{
+    background-color: #F15A29;
+}
+
+
+.menu-tab{
+    background-image: url("../img/backgrounds/foodsBg.jpg");
+    height: 600px;
+    padding-top: 100px;
+}
 
 
 
