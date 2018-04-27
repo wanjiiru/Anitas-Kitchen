@@ -1,6 +1,3 @@
-.image{
-	margin:auto;
-}
 
 
 
@@ -48,6 +45,8 @@ li{
 }
 /*footer ends here*/
 
+
+/*landing starts here*/
 .landing{
     background: url("../img/backgrounds/landing.jpg") no-repeat;
     background-size: cover;
@@ -56,10 +55,27 @@ li{
     width: 100%;
 }
 
-
 h3{
     color: white;
 }
+/*landing ends here*/
+
+
+/*big menu starts here*/
+
+.breakfast{
+    background: url("../img/foodtop/breakfast.jpg") no-repeat;
+
+}
+.happy{
+background-color: orangered
+}
+
+
+
+
+
+/*landing endss here*/
 
 
 
