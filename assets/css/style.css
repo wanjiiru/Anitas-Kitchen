@@ -11,38 +11,38 @@
 
 
 
-/*footer starts here*/
-.footer{
-	position: fixed;
-	background: #F15A29;
-	left: 0;
-	width: 100%;
-	bottom: 0;
-	padding-bottom: 50px;
-	padding-top:-40px;
-}
+/*!*footer starts here*!*/
+/*.footer{*/
+	/*position: fixed;*/
+	/*background: #F15A29;*/
+	/*left: 0;*/
+	/*width: 100%;*/
+	/*bottom: 0;*/
+	/*padding-bottom: 50px;*/
+	/*padding-top:-40px;*/
+/*}*/
 
-.footer-menu-left{
-	float: left;
-}
+/*.footer-menu-left{*/
+	/*float: left;*/
+/*}*/
 
-.footer-menu-right{
-	padding-left: px;
-}
+/*.footer-menu-right{*/
+	/*padding-left: px;*/
+/*}*/
 
-ul{
-	list-style: none;
-}
+/*ul{*/
+	/*list-style: none;*/
+/*}*/
 
-li{
-	display: inline;
-	padding: 10px;
-}
+/*li{*/
+	/*display: inline;*/
+	/*padding: 10px;*/
+/*}*/
 
-.col-md-4{
-	text-align: center;
-}
-/*footer ends here*/
+/*.col-md-4{*/
+	/*text-align: center;*/
+/*}*/
+/*!*footer ends here*!*/
 
 
 /*landing starts here*/
@@ -77,16 +77,16 @@ background-color: #F15A29;
 
 
 
-.fast-foods-card{
-    border: lightgrey solid 12px;
+
 
 }
 /* fast food ends here*/
 
 
 /* menu tabs start here*/
-.menu-tabs{
-    background-image: url("../img/backgrounds/foodsBg.jpg");
+
+h4{
+    color: #F15A29;
 }
 
 
@@ -94,10 +94,17 @@ background-color: #F15A29;
 
 
 
+.row menu{
+    background-image: url("../img/backgrounds/foodsBg.jpg");
+}
 
 
 
 
+
+.hilton{
+    float: right;
+}
 
 
 
