@@ -54,17 +54,25 @@ h5 {
 /*landing starts here*/
 .landing{
     background: url("../img/backgrounds/landing.jpg") no-repeat;
-    background-size: cover;
-    margin-right: 10px;
-    margin-left: 0;
+    background-size: 100%;
+    /*margin-right: 10px;*/
+    /*margin-left: 0;*/
     width: 100%;
 }
 
 h3{
     color: white;
+    margin:0;
+}
+.dinner h3 {
+    padding-top: 20%;
+    padding-bottom: 30%;
 }
 /*landing ends here*/
 
+.col-md-3{
+    padding:0;
+}
 
 /*big menu starts here*/
 
@@ -155,23 +163,82 @@ li{
 
 
 
-
-
-.party-time{
-    background-color: #F15A29;
-}
-
-
 .menu-tab{
     background-image: url("../img/backgrounds/foodsBg.jpg");
     height: 600px;
     padding-top: 100px;
 }
 
+.breakfast{
+    background-size: cover;
+    background: url("../img/foodtop/breakfast.jpg") no-repeat center;
+    background-size: 100%;
+    text-align: center;
+
+}
+.lunch{
+    background-size: cover;
+    background: url("../img/foodtop/lunch.jpg") no-repeat center;
+    background-size: 100%;
+    text-align: center;
+
+
+}
+
+.breakfast:hover{
+    opacity: 0.7;
+}
+
+.dinner{
+    background: url("../img/foodtop/dinner.jpg") no-repeat center;
+    background-size: 100%;
+    text-align: center;
+}
+.dinner:hover{
+    opacity: 0.7;
+}
+
+
+@media (max-width: 1280px){
+
+}
 
 
 
+.party-time{
+    background-color: #F15A29;
+    height:100px;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    padding: 0;
+}
+
+.happy-hour {
+    background-color: white;
+    height: 100px;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
 
 
+
+.main{
+    text-align: center;
+    color: white;
+    height: 210px;
+
+}
+
+
+.colmn{
+    float: left;
+    width: 25%;
+    margin: 0 auto;
+    padding: 0 auto;
+}
 
 
