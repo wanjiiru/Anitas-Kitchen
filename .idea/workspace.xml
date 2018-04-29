@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="79134892-6ecc-4d52-981e-e7ad9e203058" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/anita-s-kitchen.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/style.css" afterPath="$PROJECT_DIR$/assets/css/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/js/script.js" afterPath="$PROJECT_DIR$/assets/js/script.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -55,8 +49,8 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/assets/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1584">
-              <caret line="66" column="7" lean-forward="false" selection-start-line="66" selection-start-column="1" selection-end-line="66" selection-end-column="7" />
+            <state relative-caret-position="245">
+              <caret line="193" column="16" lean-forward="false" selection-start-line="193" selection-start-column="16" selection-end-line="193" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -82,8 +76,8 @@
         <option value="$PROJECT_DIR$/assets/css/bootstrap.css" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/assets/js/script.js" />
-        <option value="$PROJECT_DIR$/assets/css/style.css" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/assets/css/style.css" />
       </list>
     </option>
   </component>
@@ -330,12 +324,12 @@
       <workItem from="1524803353376" duration="37530000" />
       <workItem from="1524843357453" duration="6831000" />
       <workItem from="1525020831171" duration="75000" />
-      <workItem from="1525020972723" duration="1256000" />
+      <workItem from="1525020972723" duration="1503000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="59299000" />
+    <option name="totallyTimeSpent" value="59546000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -644,8 +638,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1584">
-          <caret line="66" column="7" lean-forward="false" selection-start-line="66" selection-start-column="1" selection-end-line="66" selection-end-column="7" />
+        <state relative-caret-position="245">
+          <caret line="193" column="16" lean-forward="false" selection-start-line="193" selection-start-column="16" selection-end-line="193" selection-end-column="16" />
           <folding />
         </state>
       </provider>

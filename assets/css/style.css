@@ -189,6 +189,11 @@ li{
     opacity: 0.7;
 }
 
+
+.lunch:hover{
+    opacity: 0.7;
+}
+
 .dinner{
     background: url("../img/foodtop/dinner.jpg") no-repeat center;
     background-size: 100%;
@@ -241,4 +246,14 @@ li{
     padding: 0 auto;
 }
 
+
+.breakfast h3 {
+    padding-top: 20%;
+    padding-bottom: 30%;
+
+}
+
+.lunch h3 {
+    padding-top: 20%;
+    padding-bottom: 30%;
 
