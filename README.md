@@ -1,11 +1,11 @@
-# AnitasKitchenIP2
+# AnitasKitchen
 #### Second Independent Project for Moringa prep class , April 27, 2018
 ## Description
 The website displays if the concepts learnt during the week are well understood.
 ## Known Bugs
 No bugs so far. 
 ## Technologies Used
-HTML,CSS andjs
+HTML,CSS and Js
 ## Support and contact details
 Contact me on for any comments, reviews or advice.
 ### License
