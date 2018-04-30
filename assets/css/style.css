@@ -17,41 +17,41 @@ h5 {
 
 
 
-/*footer starts here*/
-.footer{
-	position: fixed;
-	background: #F15A29;
-	left: 0;
-	width: 100%;
-	bottom: 0;
-	padding-bottom: 50px;
-	padding-top:-40px;
-}
+/*!*footer starts here*!*/
+/*.footer{*/
+	/*position: fixed;*/
+	/*background: #F15A29;*/
+	/*left: 0;*/
+	/*width: 100%;*/
+	/*bottom: 0;*/
+	/*padding-bottom: 50px;*/
+	/*padding-top:-40px;*/
+/*}*/
 
-.footer-menu-left{
-	float: left;
-}
+/*.footer-menu-left{*/
+	/*float: left;*/
+/*}*/
 
-.footer-menu-right{
-	padding-left: px;
-}
+/*.footer-menu-right{*/
+	/*padding-left: px;*/
+/*}*/
 
-ul{
-	list-style: none;
-}
+/*ul{*/
+	/*list-style: none;*/
+/*}*/
 
-li{
-	display: inline;
-	padding: 10px;
-}
+/*li{*/
+	/*display: inline;*/
+	/*padding: 10px;*/
+/*}*/
 
-.col-md-4{
-	text-align: center;
-}
-/*footer ends here*/
+/*.col-md-4{*/
+	/*text-align: center;*/
+/*}*/
+/*!*footer ends here*!*/
 
 
-landing starts here
+/*landing starts here*/
 .landing{
     background: url("../img/backgrounds/landing.jpg") no-repeat;
     background-size: 100%;
@@ -256,4 +256,85 @@ li{
 .lunch h3 {
     padding-top: 20%;
     padding-bottom: 30%;
+}
+
+
+.subscribe {
+    background-attachment: scroll;
+    background-image: url("../img/backgrounds/subscribe.jpg");
+    background-size: cover;
+    padding-top: 8.5em;
+    padding-bottom: 8.5em;
+    color: white;
+    text-align: center;
+}
+
+
+#mc_embed_signup {
+    /* background: #fff; */
+    clear: left;
+    font: 14px Helvetica, Arial, sans-serif;
+}
+
+#mc-embedded-subscribe {
+    background-color: #F15A29;
+    border-color: #F15A29;
+    width: 140px;
+    color: white;
+}
+#mc_embed_signup .mc-field-group input{
+    width: 30%;
+    margin-left: 40%;
+    margin-bottom: 1%;
+    padding: 0;
+}
+.mc-field-group{
+    text-align: center;
+    padding-bottom: 0;
+}
+
+
+
+
+.customers {
+    box-shadow: 2px 4px 12px 2px #DCDCDC;
+    padding-top: 2em;
+    padding-bottom: 2em;
+    font-family: 'Roboto Slab', serif;
+    color: rgb(65, 63, 63);
+}
+
+.customers h3 {
+    color: #F15A29;
+}
+
+
+
+.customers h3 {
+    color: #F15A29;
+}
+
+.col-md-7 {
+    padding-left: 4em;
+    padding-right: 4em;
+    text-align: center;
+}
+
+.col-md-5 {
+    text-align: center;
+    padding-left: 4em;
+    padding-right: 4em;
+    border-left: solid;
+    border-width: thin;
+    border-color: rgba(128, 128, 128, 0.57);
+}
+
+
+.new-container {
+    padding-right: 25px;
+    padding-left: 25px;
+    margin-right: auto;
+    margin-left: auto;
+    padding-top: 5em;
+    padding-bottom: 5em;
 
