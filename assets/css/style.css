@@ -12,45 +12,6 @@ h5 {
     color: white;
 }
 
-/*subscribe starts here*/
-
-
-
-
-/*!*footer starts here*!*/
-/*.footer{*/
-	/*position: fixed;*/
-	/*background: #F15A29;*/
-	/*left: 0;*/
-	/*width: 100%;*/
-	/*bottom: 0;*/
-	/*padding-bottom: 50px;*/
-	/*padding-top:-40px;*/
-/*}*/
-
-/*.footer-menu-left{*/
-	/*float: left;*/
-/*}*/
-
-/*.footer-menu-right{*/
-	/*padding-left: px;*/
-/*}*/
-
-/*ul{*/
-	/*list-style: none;*/
-/*}*/
-
-/*li{*/
-	/*display: inline;*/
-	/*padding: 10px;*/
-/*}*/
-
-/*.col-md-4{*/
-	/*text-align: center;*/
-/*}*/
-/*!*footer ends here*!*/
-
-
 /*landing starts here*/
 .landing{
     background: url("../img/backgrounds/landing.jpg") no-repeat;
@@ -337,4 +298,18 @@ li{
     margin-left: auto;
     padding-top: 5em;
     padding-bottom: 5em;
+}
+
+
+.ending {
+    background-color: #F15A29;
+}
+
+.end-text {
+    color: white;
+    text-align: center;
+    padding-top: 3em;
+    padding-bottom: 3em;
+}
+
 
